@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RabbaniHacker
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Hacking 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ....
 - 📫 Insta ID rabbani_gamer
 
 <!---
